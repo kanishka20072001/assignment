@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    margin: 20px;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.comedy-show {
+    margin-top: 20px;
+}
